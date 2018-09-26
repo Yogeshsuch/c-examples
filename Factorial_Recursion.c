@@ -6,7 +6,7 @@ void main()
     scanf("%d",&a);
     printf("%d is factorial of %d",facto(a),a);
 }
-
+// Factorial Calculation//
 int facto(int n)
 {
     int mul;
